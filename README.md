@@ -24,11 +24,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1DA1F2?style=flat&logo=graphql&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1DA1F2?style=flat&logo=langgraph&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF0000?style=flat&logo=reactquery&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/AgenticAI-00C853?style=flat&logo=googleassistant&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-0A74DA?style=flat&logo=teamviewer&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-0A74DA?style=flat&logo=crewai&logoColor=white)
 ![Docling OCR](https://img.shields.io/badge/Docling--OCR-0E76A8?style=flat&logo=docsdotrs&logoColor=white)
 
 ---
@@ -71,9 +71,9 @@
 
 ### 🧰 Tools & Utilities
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-4C1?style=flat)
+![Gradio](https://img.shields.io/badge/Gradio-4C1?style=flat&logo=gradio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![GPT](https://img.shields.io/badge/GPT-00AEEF?style=flat)
+![GPT](https://img.shields.io/badge/GPT-00AEEF?style=flat&logo=openai&logoColor=white)
 
 ---
 
