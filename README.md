@@ -48,7 +48,11 @@
 ### 📊 Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-005C5C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9A2A?style=flat&logo=databricks&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=microsoft-power-bi&logoColor=black)
+
 
 ---
 
