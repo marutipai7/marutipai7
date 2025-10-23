@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm John Doe  
 
-<!--
-**marutipai7/marutipai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python + AI Developer | Backend Engineer | Data Enthusiast  
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Python, Django, FastAPI, and AI Systems.  
+🌱 I’m learning open-source contributions, AI agent frameworks, and MLOps best practices.  
+💬 Ask me about API development, ML pipelines, LLMs, or backend systems.  
+⚡ Fun fact: I started as a backend dev and now build AI that talks! 😅  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Socials
+[LinkedIn](www.linkedin.com/in/maruti-pai) | [Email](mailto:marutipai203@gmail.com)
+
+---
+
+### 💻 Tech Stack
+Python | Django | FastAPI | Flask | TensorFlow | PyTorch | LangChain | LlamaIndex | LangGraph | ChromaDB | FAISS | CrewAI | RAG | Agentic AI | Docker | AWS | MongoDB | MySQL | PostgreSQL | Redis | OpenCV | NumPy | Pandas | scikit-learn | Docling-OCR |
+
+---
+
+### 📊 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
