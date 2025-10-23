@@ -62,4 +62,4 @@
 
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=marutipai7&theme=radical)
+![](https://github-profile-trophy.vercel.app/?username=marutipai7&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
