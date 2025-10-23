@@ -1,12 +1,13 @@
-# 💫 About Me:
-👋 Hi, I'm Maruti Pai
+👋 Hey there, I'm **Maruti Pai**  
 
-🚀 Python + AI Developer | Backend Engineer | Data Enthusiast  
+🚀 **AI & Python Developer** | **Agentic Systems Builder** | **Backend + RAG Engineer**
 
-🔭 I’m currently working on Python, Django, FastAPI, and AI Systems.  
-🌱 I’m learning open-source contributions, AI agent frameworks, and MLOps best practices.  
-💬 Ask me about API development, ML pipelines, LLMs, or backend systems.  
-⚡ Fun fact: I started as a backend dev and now build AI that talks! 😅  
+💡 I build **intelligent AI agents**, **Agentic RAG systems**, and **autonomous backend workflows** using Python, LangChain, FastAPI, and modern LLM frameworks.  
+🔭 Currently exploring **Agentic AI architectures**, **multi-agent coordination**, and **perception-based models** that blend reasoning with vision.  
+🌱 Passionate about creating tools that make AI more *context-aware*, *goal-driven*, and *human-aligned*.  
+💬 Ask me about **RAG pipelines**, **LLM orchestration**, **vector databases**, or **AI agent frameworks** like CrewAI, LangGraph, and LlamaIndex.  
+
+⚡ **Fun Fact:** I once built an AI that accidentally gave better life advice than my to-do app… so now I’m training *both* to work together! 🤖✨  
 
 ---
 
