@@ -26,4 +26,4 @@ Python | Django | FastAPI | Flask | TensorFlow | PyTorch | LangChain | LlamaInde
 
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=marutipai7&theme=radical)
