@@ -58,6 +58,8 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FCC624?style=flat&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-FCC624?style=flat&logo=github&logoColor=black)
 
 ---
 
