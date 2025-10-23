@@ -56,8 +56,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=marutipai7&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marutipai7&layout=compact&theme=dark)
 ![](https://github-readme-stats.vercel.app/api?username=marutipai7&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=marutipai7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marutipai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
