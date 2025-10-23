@@ -21,4 +21,9 @@ Python | Django | FastAPI | Flask | TensorFlow | PyTorch | LangChain | LlamaInde
 ---
 
 ### 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=marutipai7&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marutipai7&layout=compact&theme=dark)
+
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical)
