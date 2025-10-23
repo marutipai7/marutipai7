@@ -23,7 +23,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF9900?style=flat&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=llama&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1DA1F2?style=flat&logo=graphql&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF0000?style=flat&logo=reactquery&logoColor=white)
