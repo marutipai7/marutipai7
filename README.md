@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm John Doe  
+👋 Hi, I'm Maruti Pai
 
 🚀 Python + AI Developer | Backend Engineer | Data Enthusiast  
 
