@@ -78,7 +78,7 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=marutipai7&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+#![](https://github-readme-stats.vercel.app/api?username=marutipai7&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=marutipai7&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marutipai7&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
