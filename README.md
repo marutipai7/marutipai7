@@ -29,7 +29,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1DA1F2?style=flat&logo=langgraph&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF0000?style=flat&logo=reactquery&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/AgenticAI-00C853?style=flat&logo=googleassistant&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-#FFD21E?style=flat&logo=HuggingFace&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0A74DA?style=flat&logo=crewai&logoColor=white)
 ![Docling OCR](https://img.shields.io/badge/Docling--OCR-0E76A8?style=flat&logo=docsdotrs&logoColor=white)
 
